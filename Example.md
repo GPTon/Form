@@ -1,9 +1,5 @@
 
-
-
-https://user-images.githubusercontent.com/128919463/227729985-51c7287e-ecca-4347-b9a9-07d2202ae27b.mov
-
-
+https://user-images.githubusercontent.com/128919463/227730734-a44bd2d5-5ba3-46b2-a6fb-f880e267321d.mov
 
 Steps to reproduce:
 
